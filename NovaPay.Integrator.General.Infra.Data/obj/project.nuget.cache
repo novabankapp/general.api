@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "0LcMAb6RRFnAQQNju3xTyLPOcflKEYMyt9ZNb4Nn7HSBZKyLZp3AHt8fJPEwikG4+pLFhvhcEmk+QAl1SFQFsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Infra.Data\\NovaPay.Integrator.General.Infra.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\common.libraries.services\\1.2.4\\common.libraries.services.1.2.4.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\common.libraries.services.efcore\\1.2.4\\common.libraries.services.efcore.1.2.4.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.15\\microsoft.entityframeworkcore.relational.6.0.15.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

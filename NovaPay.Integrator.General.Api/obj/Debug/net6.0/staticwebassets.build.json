@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rDdk6qFrmhR6/ZwPB7pwHc1rH4AhQ4QIgJvGnvnl2po=",
+  "Source": "NovaPay.Integrator.General.Api",
+  "BasePath": "_content/NovaPay.Integrator.General.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

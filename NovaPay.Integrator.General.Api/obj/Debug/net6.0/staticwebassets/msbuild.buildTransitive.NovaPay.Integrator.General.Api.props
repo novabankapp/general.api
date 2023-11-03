@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NovaPay.Integrator.General.Api.props" />
+</Project>

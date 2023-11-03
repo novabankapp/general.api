@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Api\\NovaPay.Integrator.General.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Api\\NovaPay.Integrator.General.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Api\\NovaPay.Integrator.General.Api.csproj",
+        "projectName": "NovaPay.Integrator.General.Api",
+        "projectPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Api\\NovaPay.Integrator.General.Api.csproj",
+        "packagesPath": "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO-LEGION 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/NBS-BANK/index.json": {},
+          "https://nuget.pkg.github.com/novabankapp/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Infra.IoC\\NovaPay.Integrator.General.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Infra.IoC\\NovaPay.Integrator.General.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Common.Libraries.Services": {
+              "target": "Package",
+              "version": "[1.2.6, )"
+            },
+            "Common.Libraries.Services.Logging": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Common.Libraries.Services.Logging.SeriLog": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Application\\NovaPay.Integrator.General.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Application\\NovaPay.Integrator.General.Application.csproj",
+        "projectName": "NovaPay.Integrator.General.Application",
+        "projectPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Application\\NovaPay.Integrator.General.Application.csproj",
+        "packagesPath": "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO-LEGION 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/NBS-BANK/index.json": {},
+          "https://nuget.pkg.github.com/novabankapp/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Common.Libraries.Services": {
+              "target": "Package",
+              "version": "[1.2.6, )"
+            },
+            "Common.Libraries.Services.Flurl": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "NovaPay.Integrator.Adapters": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "NovaPay.Integrator.Common.Data": {
+              "target": "Package",
+              "version": "[1.1.37, )"
+            },
+            "NovaPay.Integrator.Common.Services": {
+              "target": "Package",
+              "version": "[1.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Infra.IoC\\NovaPay.Integrator.General.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Infra.IoC\\NovaPay.Integrator.General.Infra.IoC.csproj",
+        "projectName": "NovaPay.Integrator.General.Infra.IoC",
+        "projectPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Infra.IoC\\NovaPay.Integrator.General.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO-LEGION 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/NBS-BANK/index.json": {},
+          "https://nuget.pkg.github.com/novabankapp/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Application\\NovaPay.Integrator.General.Application.csproj": {
+                "projectPath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Application\\NovaPay.Integrator.General.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

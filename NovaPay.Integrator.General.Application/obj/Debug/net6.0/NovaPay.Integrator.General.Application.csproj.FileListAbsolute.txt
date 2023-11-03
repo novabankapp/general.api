@@ -1,0 +1,24 @@
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\bin\Debug\net6.0\NovaPay.Integrator.General.Application.deps.json
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\bin\Debug\net6.0\NovaPay.Integrator.General.Application.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\bin\Debug\net6.0\NovaPay.Integrator.General.Application.pdb
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\refint\NovaPay.Integrator.General.Application.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.pdb
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\ref\NovaPay.Integrator.General.Application.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\bin\Debug\net6.0\NovaPay.Integrator.General.Application.deps.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\bin\Debug\net6.0\NovaPay.Integrator.General.Application.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\bin\Debug\net6.0\NovaPay.Integrator.General.Application.pdb
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.AssemblyInfo.cs
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\refint\NovaPay.Integrator.General.Application.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\NovaPay.Integrator.General.Application.pdb
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Application\obj\Debug\net6.0\ref\NovaPay.Integrator.General.Application.dll

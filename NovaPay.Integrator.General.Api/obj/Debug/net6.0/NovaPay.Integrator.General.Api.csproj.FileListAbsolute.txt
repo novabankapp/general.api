@@ -1,0 +1,339 @@
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.exe
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.deps.json
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.runtimeconfig.json
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.pdb
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\AutoMapper.Collection.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\IronBarCode.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\BitMiracle.LibTiff.NET.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.EventBus.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.EventBus.Kafka.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.EFCore.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.Flurl.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.Logging.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.Logging.SeriLog.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Flurl.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Flurl.Http.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\IronSoftware.Drawing.Common.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MediatR.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\comerr64.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\gssapi64.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\krb5_64.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\krbcc64.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.Common.Data.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.Common.Services.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\QRCoder.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\IronPdfInterop.so
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\IronPdfInterop.dylib
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-x64\native\IronPdfInterop.dylib
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Application.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Infra.IoC.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Infra.IoC.pdb
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Application.pdb
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\scopedcss\bundle\NovaPay.Integrator.General.Api.styles.css
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.csproj.CopyComplete
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\refint\NovaPay.Integrator.General.Api.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.pdb
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.genruntimeconfig.cache
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\ref\NovaPay.Integrator.General.Api.dll
+C:\Users\msasa.l\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NuGet.Config
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.exe
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.deps.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.runtimeconfig.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Api.pdb
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\AutoMapper.Collection.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\IronBarCode.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\BitMiracle.LibTiff.NET.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.EventBus.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.EventBus.Kafka.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.EFCore.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.Flurl.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.Logging.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Common.Libraries.Services.Logging.SeriLog.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Flurl.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Flurl.Http.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\IronSoftware.Drawing.Common.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MediatR.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\comerr64.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\gssapi64.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\krb5_64.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\krbcc64.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.Adapters.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.Common.Data.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.Common.Services.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\QRCoder.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\zxing.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\IronPdfInterop.so
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\IronPdfInterop.dylib
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-x64\native\IronPdfInterop.dylib
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Application.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Infra.IoC.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Infra.IoC.pdb
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\bin\Debug\net6.0\NovaPay.Integrator.General.Application.pdb
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.csproj.AssemblyReference.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.AssemblyInfoInputs.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.AssemblyInfo.cs
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets\msbuild.NovaPay.Integrator.General.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.NovaPay.Integrator.General.Api.props
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NovaPay.Integrator.General.Api.props
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NovaPay.Integrator.General.Api.props
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\scopedcss\bundle\NovaPay.Integrator.General.Api.styles.css
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.csproj.CopyComplete
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\refint\NovaPay.Integrator.General.Api.dll
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.pdb
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\NovaPay.Integrator.General.Api.genruntimeconfig.cache
+C:\Users\LENOVO-LEGION 5\source\repos\NovaPay.Integrator.General\NovaPay.Integrator.General.Api\obj\Debug\net6.0\ref\NovaPay.Integrator.General.Api.dll

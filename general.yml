@@ -1,0 +1,107 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: general-api-deployment
+  labels:
+    app: generalapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: generalapi
+  template:
+    metadata:
+      labels:
+        app: generalapi
+    spec:
+      containers:
+        - name: generalapi
+          image: novabank/general_api:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
+          resources:
+            requests:
+              memory: "64Mi"
+              cpu: "250m"
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
+          env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: Development
+            - name: IdentityServer
+              value: "http://localhost:5117"
+            - name: ElasticConfiguration__Uri
+              value: "http://elasticsearch:9200"
+            - name: ElasticConfiguration__LogFiles
+              value: "true"
+            - name: ElasticConfiguration__LogElastic
+              value: "true"
+            - name: ElasticConfiguration__LogConsole
+              value: "true"
+            - name: Serilog__MinimumLevel__Default
+              value: "Information"
+            - name: Serilog__MinimumLevel__Default__Override
+              value: "Information"
+            - name: Serilog__MinimumLevel__Default__System
+              value: "Warning"
+            - name: ConnectionStrings__NovaIntegratorDB
+              valueFrom:
+                  configMapKeyRef:
+                    name: generalapi-configmap
+                    key:  general_db 
+            #kafka
+            - name: Kafka__ClientConfigs__BootstrapServers
+              value: "localhost:9092"
+            - name: Kafka__ClientConfigs__GroupId
+              value: "nova-payment"
+            - name: Kafka__ClientConfigs__EnableAutoCommit
+              value: "true"
+            - name: Kafka__ClientConfigs__AutoOffsetReset
+              value: "1"
+            - name: Kafka__ClientConfigs__StatisticsIntervalMs
+              value: "5000"
+            - name: Kafka__ClientConfigs__SessionTimeoutMs
+              value: "6000"
+            #settings
+            - name: Settings__BasicUserName
+              value: "nova"
+            - name: Settings__BasicPassword
+              value: "Nova@2023"
+            - name: Asynchronous
+              value: "true"
+            #token
+            - name: Token__JwtIssuer
+              value: NovaPayIntegrator
+            - name: Token__JwtKey
+              value: Zinthuzikuyendabho
+            - name: Token__JwtLifespanDays
+              value: "1"
+      imagePullSecrets:
+        - name: docker-secret      
+    
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: generalapi-service
+spec:
+  type: NodePort
+  selector:
+    app: generalapi
+  ports:
+    - protocol: TCP
+      port: 5011
+      targetPort: 80
+      nodePort: 31000
+
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: generalapi-configmap
+data:
+  general_db: server=localhost;database=NovaIntegrator;uid=root;pwd=Nbs2020developers
+  
+
