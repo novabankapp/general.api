@@ -24,7 +24,7 @@ namespace NovaPay.Integrator.General.Infra.IoC
         {
             services.AddTransient<IMerchantService, MerchantService>();
             services.AddTransient<IApiRequestService, FlurlApiRequestService>();
-            services.AddTransient<IApiService, ApiService>();
+            services.AddTransient<IApiService, MockApiService>();
             services.AddTransient<ILocalService, LocalService>();
             services.AddTransient<IRepository<RequestLog>, EFRepository<RequestLog, NovaIntegratorContext>>();
             services.AddTransient<IService<RequestLog, RequestLogDto>, Service<RequestLog, RequestLogDto>>();
