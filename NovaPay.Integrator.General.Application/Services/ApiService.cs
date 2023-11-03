@@ -132,6 +132,7 @@ namespace NovaPay.Integrator.General.Application.Services
 
                          });
                     var d = JsonConvert.SerializeObject(res.result);
+
                     var r = await Adapters.Converters.ConvertValidationResponse(JsonConvert.SerializeObject(res.result), fields);
                     r.Success = r.Name != null && r.Name != string.Empty;
                     await _logService.CreateAsync(log);

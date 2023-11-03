@@ -1221,10 +1221,10 @@
           }
         }
       },
-      "NovaPay.Integrator.Adapters/1.0.1": {
+      "NovaPay.Integrator.Adapters/1.0.7": {
         "type": "package",
         "dependencies": {
-          "NovaPay.Integrator.Common.Services": "1.0.17"
+          "NovaPay.Integrator.Common.Services": "1.0.20"
         },
         "compile": {
           "lib/net6.0/NovaPay.Integrator.Adapters.dll": {}
@@ -3296,14 +3296,14 @@
         "packageIcon.png"
       ]
     },
-    "NovaPay.Integrator.Adapters/1.0.1": {
-      "sha512": "o8rOAoNKs9rNwHltldBTPrecxuAXIg75kwq/jDSJF1S4iDEd6MWuOWLocbij33q/HBvYoDX8QnShZOqzv4jPyw==",
+    "NovaPay.Integrator.Adapters/1.0.7": {
+      "sha512": "pgwx9Inrcp0mi0AJ96juyrdvl8L5t5O554PZ8a6d33TTqmjqCipLi8VGL90//TIdKzElDtVlIV3yn7X/m8aTOg==",
       "type": "package",
-      "path": "novapay.integrator.adapters/1.0.1",
+      "path": "novapay.integrator.adapters/1.0.7",
       "files": [
         ".nupkg.metadata",
         "lib/net6.0/NovaPay.Integrator.Adapters.dll",
-        "novapay.integrator.adapters.1.0.1.nupkg.sha512",
+        "novapay.integrator.adapters.1.0.7.nupkg.sha512",
         "novapay.integrator.adapters.nuspec"
       ]
     },
@@ -4676,7 +4676,7 @@
       "Common.Libraries.Services >= 1.2.6",
       "Common.Libraries.Services.Flurl >= 1.2.3",
       "Newtonsoft.Json >= 13.0.3",
-      "NovaPay.Integrator.Adapters >= 1.0.1",
+      "NovaPay.Integrator.Adapters >= 1.0.7",
       "NovaPay.Integrator.Common.Data >= 1.1.37",
       "NovaPay.Integrator.Common.Services >= 1.0.20"
     ]
@@ -4736,7 +4736,7 @@
           },
           "NovaPay.Integrator.Adapters": {
             "target": "Package",
-            "version": "[1.0.1, )"
+            "version": "[1.0.7, )"
           },
           "NovaPay.Integrator.Common.Data": {
             "target": "Package",

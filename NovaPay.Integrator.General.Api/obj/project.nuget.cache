@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4Z6IytZpFPaeatGB3XuCUJ+8x7pNcjGZPRvJtlx40yDtSYMhVZNS0DvcBn9LZ1F2dG4v+aUj64zOfdW0BqjwjQ==",
+  "dgSpecHash": "qbTFbEcNICSSzlMH8VVMlEItPf2MTN36gpgydo47JjPwWTQxud/JAjStlH77EmGCaROmvK6BNm1AJWbivz3sRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO-LEGION 5\\source\\repos\\NovaPay.Integrator.General\\NovaPay.Integrator.General.Api\\NovaPay.Integrator.General.Api.csproj",
   "expectedPackageFiles": [
@@ -80,7 +80,7 @@
     "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\mysql.data\\8.0.32\\mysql.data.8.0.32.nupkg.sha512",
     "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\mysql.entityframeworkcore\\7.0.0\\mysql.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\novapay.integrator.adapters\\1.0.1\\novapay.integrator.adapters.1.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\novapay.integrator.adapters\\1.0.6\\novapay.integrator.adapters.1.0.6.nupkg.sha512",
     "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\novapay.integrator.common.data\\1.1.37\\novapay.integrator.common.data.1.1.37.nupkg.sha512",
     "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\novapay.integrator.common.services\\1.0.20\\novapay.integrator.common.services.1.0.20.nupkg.sha512",
     "C:\\Users\\LENOVO-LEGION 5\\.nuget\\packages\\opentelemetry\\1.5.1\\opentelemetry.1.5.1.nupkg.sha512",

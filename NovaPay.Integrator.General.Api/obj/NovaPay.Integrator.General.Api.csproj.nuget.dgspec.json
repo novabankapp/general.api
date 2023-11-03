@@ -170,7 +170,7 @@
             },
             "NovaPay.Integrator.Adapters": {
               "target": "Package",
-              "version": "[1.0.1, )"
+              "version": "[1.0.6, )"
             },
             "NovaPay.Integrator.Common.Data": {
               "target": "Package",
